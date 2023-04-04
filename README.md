@@ -1,6 +1,9 @@
 # openwrt-linksys-e5600
 Compiled OpenWRT firmware for Linksys E5600
 
+![alt text](https://github.com/captain-n3m0/archer-c6/blob/main/resource/openwrt-logo.png)
+
+
 *
 * Your warranty is void. Or valid, probably?
 *
